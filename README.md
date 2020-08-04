@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Name: Jordan, Age: 15, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
+
+I need to remember to change my profil picture.
+
 <!--
 **xKesvaL/xKesvaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
