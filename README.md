@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-Name: Jordan, Age: 15, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
+Name: Jordan, Age: 16, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
 
-I need to remember to change my profil picture.
+I need to remember to change my profil picture, this one is ugly. (Yes I saw that wrote and I still didn't change it..)
+
+- ⚡ Fun fact: I'm from France ! Oh yeah, that may not be fun..
+- 🔭 I’m currently working on a discord bot project that goes with a website.
+- 📫 How to reach me: Simply contact me at jabeddou@gmail.com !
 
 <!--
 **xKesvaL/xKesvaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
