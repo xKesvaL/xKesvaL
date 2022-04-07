@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Name: Jordan, Age: 16, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
+Name: Jordan, Age: 17, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
 
-- ⚡ Fun fact: I'm from France ! Oh yeah, that may not be fun..
-- 🔭 I’m currently working on nothing, should considerate starting something.
-- 📫 How to reach me: Simply contact me at jabeddou@gmail.com !
+- ⚡ Fun fact: I'm from France ! Oh yeah, that may not be fun.
+- 🔭 I’m currently working on a project, an IdleOn (a game) tool to help everyone, and myself !
+- 📫 Reach me: Simply contact me at jabeddou@gmail.com !
 
 <!--
 **xKesvaL/xKesvaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
