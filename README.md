@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Name: Jordan, Age: 17, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
+Name: Jordan, Age: 18, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
 
 - ⚡ Fun fact: I'm from France ! Oh yeah, that may not be fun.
 - 🔭 I don't really have anything planned right now. I want to do things. I don't know what to do.
