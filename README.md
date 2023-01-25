@@ -1,5 +1,9 @@
 <h2>Hi 👋 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=xKesvaL&style=for-the-badge&color=blueviolet"></h2>
 
+## Github Stats
+
+![KesvaL's GitHub stats](https://github-readme-stats.vercel.app/api?username=xKesvaL&count_private=true&theme=midnight-purple&show_icons=true)
+
 Name: Jordan, Age: 18, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
 
 - ⚡ Fun fact: I'm from France ! Oh yeah, that may not be fun.
