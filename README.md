@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi 👋 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=xKesvaL&style=for-the-badge&color=blueviolet"></h2>
 
 Name: Jordan, Age: 18, Skills: NodeJS (JS & TS), Web (CSS3, HTML5 & JS) and maybe anything, I learn fast. 
 
