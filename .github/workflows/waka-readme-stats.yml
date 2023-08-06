@@ -24,6 +24,6 @@ jobs:
           SHOW_UPDATED_DATE: "FALSE"
           SHOW_PROJECTS: "FALSE"
           SHOW_PROFILE_VIEWS: "FALSE"
-          SHOW_SHORT_INFO: "FALSE"
+          SHOW_SHORT_INFO: "TRUE"
           SHOW_LOC_CHART: "FALSE"
           SYMBOL_VERSION: 3
