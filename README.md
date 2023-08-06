@@ -17,3 +17,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 https://shields.io/
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
