@@ -18,10 +18,10 @@
 ### 🙈 Quick Stats
 
 <a href="https://github.com/xKesvaL/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xKesvaL&show_icons=true&theme=midnight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xKesvaL&show_icons=true&theme=midnight-purple&card_width=360" />
 </a>
 <a href="https://github.com/xKesvaL/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xKesvaL&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xKesvaL&layout=compact&langs_count=8&card_width=300&theme=midnight-purple" />
 </a>
 
 ### 🏆 Trophies
@@ -29,6 +29,7 @@
 <a href="" style="display: flex">
   <img align="center" style="margin-left: auto; margin-right: auto;" src="https://github-profile-trophy.vercel.app/?username=xKesvaL&theme=onestar&column=3&margin-w=15&margin-h=15&rank=S,AAA,AA,A,B,C">
 </a>
+
 ### 📈 Weekly Code Time
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%202%20mins-blue)
