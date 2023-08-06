@@ -68,15 +68,3 @@ CSS                      1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 <!--END_SECTION:waka-->
-
-<!--
-Utility links: (To use later)
-[X] https://github.com/kwchang0831/kwchang0831
-[X] https://github.com/trinib/trinib
-[ ] https://github.com/minoveaz/minoveaz
-[ ] https://github.com/MartinHeinz/MartinHeinz
-[ ] https://github.com/anuraghazra/github-readme-stats
-[ ] https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-[ ] https://shields.io/
-[ ] https://github.com/alexandresanlim/Badges4-README.md-Profile
--->
