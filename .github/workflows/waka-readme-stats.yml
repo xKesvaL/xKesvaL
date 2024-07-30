@@ -16,7 +16,7 @@ jobs:
           SHOW_COMMIT: "TRUE"
           SHOW_DAYS_OF_WEEK: "TRUE"
           SHOW_LANGUAGE: "TRUE"
-          SHOW_OS: "FALSE"
+          SHOW_OS: "TRUE"
           SHOW_EDITORS: "FALSE"
           SHOW_TIMEZONE: "FALSE"
           SHOW_LANGUAGE_PER_REPO: "FALSE"
