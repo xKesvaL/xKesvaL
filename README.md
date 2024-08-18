@@ -32,7 +32,7 @@
 
 ### 📈 Weekly Code Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%205%20mins-blue)
 
 **I'm an Early 🐤** 
 
