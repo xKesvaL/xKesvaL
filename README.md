@@ -32,8 +32,6 @@
 
 ### 📈 Weekly Code Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C380%20hrs%2037%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
