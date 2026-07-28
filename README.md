@@ -32,8 +32,6 @@
 
 ### 📈 Weekly Code Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C380%20hrs%2046%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -67,6 +65,28 @@ Other                    8 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 💻 Operating System: 
 Windows                  2 hrs 59 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 18 mins (77.03%)
+
+✍️ 7,179 lines written by AI, 416 lines written by hand (94.52% AI-written)
+
+🔤 20,251 Input Tokens, 318 Output Tokens
+
+💵 $0.07 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 20 AI Prompts
+
+Github-Copilot           7,179 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.52% of written lines came from AI
+📝 Concise Prompter — average 243 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 12.47% of changed lines were hand-edited
 ```
 
 
